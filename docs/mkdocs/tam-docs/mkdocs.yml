@@ -1,0 +1,6 @@
+site_name: tam Docs
+nav:
+  - Introduction: index.md
+  - Getting Started: getting-started.md
+theme:
+  name: gitbook
