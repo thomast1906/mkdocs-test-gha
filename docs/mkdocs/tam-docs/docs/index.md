@@ -1,6 +1,6 @@
 # tam Introduction
 
-APPPPPPLES and ORANGES and BANANAS
+APPPPPPLES
 ## What is tam?
 
 Legend

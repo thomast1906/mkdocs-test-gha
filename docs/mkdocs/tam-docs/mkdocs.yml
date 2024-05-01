@@ -6,3 +6,5 @@ nav:
   - Getting Started2: getting-started.md
   - Getting Started3: getting-started.md
   - Getting Started4: getting-started.md
+theme:
+  name: material
