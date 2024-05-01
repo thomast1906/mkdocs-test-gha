@@ -1,6 +1,6 @@
 # tam Introduction
 
-APPPPPPLES
+APPPPPPLESS
 ## What is tam?
 
 Legend
